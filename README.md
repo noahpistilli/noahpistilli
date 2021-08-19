@@ -1,3 +1,3 @@
-Wakatime doesn't want to work
+I code sometimes
 
-[![Sketch's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=SketchMaster2001&compat=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SketchMaster2001&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&count_private=true&show_icons=true) ![My top language](https://github-readme-stats.vercel.app/api/top-langs/?username=SketchMaster2001&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true)
