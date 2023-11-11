@@ -1,3 +1,9 @@
-I code sometimes
+# Hi there, I'm Noah!
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=noahpistilli&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&count_private=true&show_icons=true) ![My top language](https://github-readme-stats.vercel.app/api/top-langs/?username=noahpistilli&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=FF0000&count_private=true)
+I am a High School student who has a passion for creation and disassembly. My two most used languages are C++ and Golang, although I do dabble in many others. Aside from coding and reverse engineering, I am a basketball and volleyball player.
+
+## Projects I work on
+- Project Lead @ [WiiLink](https://wiilink24.com), an open source project reviving the online services of the Nintendo Wii
+- Contributor to [Dolphin Emulator](https://dolphin-emu.com), a Wii and Gamecube Emulator
+- Reverse Engineering the PS3's E-Commerce engine
+- Reverse Engineering the Nintendo Wii's Wii Shop Channel
